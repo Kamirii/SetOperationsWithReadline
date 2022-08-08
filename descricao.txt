@@ -1,0 +1,15 @@
+a primeira linha do arquivo de texto de entrada conterá o número de
+operações que estão descritas no arquivo, este número de operações será um inteiro.
+
+a segunda apresenta o código da
+operação (U para união, I para interseção, D para diferença e C produto cartesiano)
+
+a terceira e a quarta 
+linhas conterão os elementos dos conjuntos separados por virgulas. 
+Elementos do conjunto A
+Elementos do conjunto B
+
+A informação e a formatação mostrada a seguir:
+União: conjunto 1 {3, 5, 67, 7}, conjunto 2 {1, 2, 3, 4}. Resultado: {3, 5, 67, 7, 1, 2, 4} 
+
+
