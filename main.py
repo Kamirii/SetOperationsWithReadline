@@ -52,7 +52,7 @@ def cartesian(setA,setB):
   result = []
   for i in setA:
     for j in setB: 
-     result.append(f"[{i},{j}]")
+     result.append(f"({i},{j})")
   interface(operation,setA,setB,result)
   return result
 
